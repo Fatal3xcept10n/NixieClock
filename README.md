@@ -22,12 +22,8 @@ To get started with the Nixie Clock Project, follow these steps:
 1. Clone or download this repository to your local machine.
 2. Open the `NixieClock.ino` file in the Arduino IDE and upload it to your Arduino Nano.
 3. Open the `Nixie.pdsprj` file in Proteus to view the PCB design and implement any modifications, once done go ahead an generate the gerber file and manufacture the PCB
-5. Use the IPT files in the `3D_Models/` directory to customize, generate your STL files and 3D print the enclosures for your Nixie clock.
+5. Use the IPT files in the `3D_Models/` directory to customize, generate your STL files and 3D print the enclosure for your Nixie clock.
 
 ## Contributing
 
 Contributions to the Nixie Clock Project are welcome! If you have ideas for improvements or would like to add features, feel free to fork this repository and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
