@@ -3,6 +3,9 @@
 Nixie clock build from scratch based on Arduino, including 3D modeling, PCB design, and programming.
 This repository provides resources and code to help you bring your own Nixie clock to life.
 
+![alt text](https://github.com/Fatal3xcept10n/NixieClock/blob/main/BoardView.jpg?raw=true)
+![alt text](https://github.com/Fatal3xcept10n/NixieClock/blob/main/Nixie1.jpg?raw=true)
+
 ## Features
 - Uses RTC to maintain time and date.
 - ability to update time and date over bluetooth.
