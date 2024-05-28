@@ -1,6 +1,6 @@
 # NixieClock
 
-Nixie clock build from scratch based on Arduino, including 3D modeling, PCB design, and programming.
+Nixie clock build from scratch based on Arduino, including 3D modeling, PCB design and programming.
 This repository provides resources and code to help you bring your own Nixie clock to life.
 
 ![alt text](https://github.com/Fatal3xcept10n/NixieClock/blob/main/Images/Nixie2.jpg?raw=true)
